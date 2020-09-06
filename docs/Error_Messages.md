@@ -1,0 +1,1 @@
+Error messages. Error messages are important because you want to get feedback when you’re integrating with your API services in an incorrect way. Explain your error standards, and also provide solutions on how to overcome them when an end consumer gets an error. 

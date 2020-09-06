@@ -1,0 +1,1 @@
+Authentication. This is the information about authentication schemes your users need to start consuming your API. If you’re using OAuth for example, don’t forget to explain how to set up an OAuth application and securely obtain an API key

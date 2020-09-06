@@ -70,7 +70,6 @@ Every time Bob purchases an product, you post a request to us:
     "rating": 1
 }
 ```
-If the rating of "1" in the example above confuses you, we recommend you read the various guides on ratings in this documentation. Right now, the important thing is understanding this is what you'll need to send us so we can model an user's preferences.
 
 ### 3. Request recommendations
 After you've created at least two Events for one specific Actor, recommendations will start to be generated for them. They're unlikely to be very appealing to the Actor at such an early point, but tend to get more tailored to the Actor's preferences over time as more data builds up (a rule of thumb is, that the more data, the better).
