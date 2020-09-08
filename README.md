@@ -1,5 +1,6 @@
 # Welcome to SimpleRecommend's documentation!
 Visit the SimpleRecommend website: https://app.simplerecommend.com/
+
 SimpleRecommend is a service for you who want to generate customized recommendations for website users. We have developed a dynamic machine learning system that finds patterns in your users' preferences and recommends items similar to what they historically have preferred. 
 
 > Our leading goals are simplicity and flexibility, to allow any business to supercharge their business with AI at a low cost.
